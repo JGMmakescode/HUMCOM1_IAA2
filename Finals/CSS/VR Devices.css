@@ -1,0 +1,55 @@
+body{
+    background-image: url('../images/vcvv-min.jpg');
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    font-size: 300%;
+    color:rgb(33, 235, 201);
+    font-family: 'Roboto Flex', sans-serif;
+}  
+h3{
+    text-align: center;
+    font-size: 20px;
+    color:rgb(11, 241, 80);
+    font-family: 'Roboto Flex', sans-serif;
+}  
+h4{
+    text-align: center;
+    font-size: 40px;
+    color:rgb(241, 218, 5);
+    font-family: 'Roboto Flex', sans-serif;
+} 
+ul.a {
+    list-style-type: circle;
+  }
+li.l1{
+    text-align: center;
+    color:rgb(8, 238, 200);
+    font-size: 120%;
+    font-family:'Roboto Flex', sans-serif;
+    margin-left:35px;
+    margin-right:35px;
+  }
+
+
+div.center {
+    width: 89%;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 100px;
+    margin: auto;
+}
+div.center2 {
+    border: 5px solid rgb(0, 0, 0);
+    float: right;
+    width: 33%;
+    height: 33%;
+    padding: 30px;
+    margin:5%;
+}
+div.center3 {
+    border: 5px solid rgb(0, 0, 0);
+    float: left;
+    width: 90%;
+    padding: 15px;
+}

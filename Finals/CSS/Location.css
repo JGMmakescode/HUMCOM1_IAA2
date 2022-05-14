@@ -1,0 +1,24 @@
+body{
+    background-image: url('../images/vcvv-min.jpg');
+    background-size: cover;
+}
+div.box1 {
+    width: 1000;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 100px;
+
+}
+p.p1{
+    font-size: 40px;
+    text-align: center;
+    color:rgb(11, 238, 200);
+    font-family:'Roboto Flex', sans-serif;
+  }
+
+div.location {
+    position: center;
+    border: 5px solid rgb(3, 3, 3);
+    width: 1850px;
+    height: 1000px;
+    margin:auto;
+}

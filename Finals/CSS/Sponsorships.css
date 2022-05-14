@@ -1,0 +1,28 @@
+body{
+    background-image: url('../images/vcvv-min.jpg');
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    font-size: 300%;
+    color:rgb(33, 235, 201);
+    font-family: 'Roboto Flex', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+  
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+ border: 5px solid rgb(0, 0, 0); 
+}
